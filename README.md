@@ -1,4 +1,26 @@
-### Hi there 👋
+## 사용 언어
+
+- Java
+- Kotlin
+- Python
+- C#
+- Javascript
+#
+
+## 사용 기술
+
+- Springboot(Java, Kotlin)
+- MySQL
+- Android(Java, Kotlin)
+#
+
+## 포트폴리오
+
+  MeetingApp
+
+  AnyQuestion
+  
+  Pomest(진행 중)
 
 <!--
 **kimurzzoo/kimurzzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

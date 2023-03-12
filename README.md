@@ -35,7 +35,9 @@
   - Docker 20.10.17
   - Jenkins 2.361
       
-[Pomest]: https://pomest.co.kr
+[Pomest][pomestlink]
+
+[pomestlink]: https://pomest.co.kr
 
 - 2022.08 ~ 현재
 - 갱년기 관련 커뮤니티  

@@ -48,6 +48,7 @@
   - SpringBoot 2.7.3
   - MySQL 8.0.30
   - HTML, CSS, Javascript
+  - Google Cloud Platform(Docker)
 
 <!--
 **kimurzzoo/kimurzzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,6 +11,7 @@
 
 - Springboot(Java, Kotlin)
 - MySQL
+- MongoDB
 - Android(Java, Kotlin)
 #
 

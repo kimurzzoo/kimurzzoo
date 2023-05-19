@@ -13,6 +13,8 @@
 - MySQL
 - MongoDB
 - Android(Java, Kotlin)
+- Redis
+- GCP
 #
 
 ## 포트폴리오
@@ -48,6 +50,21 @@
 - 사용 기술 스택
   - SpringBoot 2.7.3
   - MySQL 8.0.30
+  - HTML, CSS, Javascript
+  - Google Cloud Platform
+
+[WorkingTime][workingtimelink]
+
+[workingtimelink]: https://workingtime.kro.kr
+
+- 2023.03 ~ 현재
+- 근로 시간 측정 사이트
+  근로 시간을 개인이 자율적으로 측정하고 이를 다른 사람들과 비교해 볼 수 있는 사이트입니다.
+  같은 회사 사람들과 채팅이 가능합니다.
+- 사용 기술 스택
+  - SpringBoot 3.0.5
+  - MySQL 8.0.26
+  - Redis
   - HTML, CSS, Javascript
   - Google Cloud Platform
 

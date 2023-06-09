@@ -55,7 +55,7 @@
 
 [WorkingTime][workingtimelink]
 
-[workingtimelink]: https://workingtime.kro.kr
+[workingtimelink]: https://github.com/kimurzzoo/WorkingTime_public
 
 - 2023.03 ~ 현재
 - 근로 시간 측정 사이트

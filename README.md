@@ -20,6 +20,36 @@
 ## 포트폴리오
 
 
+[WorkingTime][workingtimelink]
+
+[workingtimelink]: https://github.com/kimurzzoo/WorkingTime_public
+
+- 2023.03 ~ 현재
+- 근로 시간 측정 사이트
+  근로 시간을 개인이 자율적으로 측정하고 이를 다른 사람들과 비교해 볼 수 있는 사이트입니다.
+  같은 회사 사람들과 채팅이 가능합니다.
+- 사용 기술 스택
+  - SpringBoot 3.0.5
+  - MySQL 8.0.26
+  - Redis
+  - HTML, CSS, Javascript
+  - Google Cloud Platform
+
+      
+[Pomest][pomestlink]
+
+[pomestlink]: https://pomest.co.kr
+
+- 2022.08 ~ 현재
+- 갱년기 관련 커뮤니티  
+  갱년기 부모와 자녀 사이의 공백을 메우기 위한 커뮤니티입니다.  
+  운영자가 게시하는 갱년기 관련 포스트, 유저들간의 소통을 위한 게시판을 이용할 수 있습니다.  
+  실운영 예정이므로 소스 코드는 비공개입니다.
+- 사용 기술 스택
+  - SpringBoot 2.7.3
+  - MySQL 8.0.30
+  - HTML, CSS, Javascript
+  - Google Cloud Platform
 
 [AnyQuestion][anyquestiongithub]
 
@@ -37,36 +67,8 @@
   - Android SDK 32
   - Docker 20.10.17
   - Jenkins 2.361
-      
-[Pomest][pomestlink]
-
-[pomestlink]: https://pomest.co.kr
-
-- 2022.08 ~ 현재
-- 갱년기 관련 커뮤니티  
-  갱년기 부모와 자녀 사이의 공백을 메우기 위한 커뮤니티입니다.  
-  운영자가 게시하는 갱년기 관련 포스트, 유저들간의 소통을 위한 게시판을 이용할 수 있습니다.  
-  실운영 예정이므로 소스 코드는 비공개입니다.
-- 사용 기술 스택
-  - SpringBoot 2.7.3
-  - MySQL 8.0.30
-  - HTML, CSS, Javascript
-  - Google Cloud Platform
-
-[WorkingTime][workingtimelink]
-
-[workingtimelink]: https://github.com/kimurzzoo/WorkingTime_public
-
-- 2023.03 ~ 현재
-- 근로 시간 측정 사이트
-  근로 시간을 개인이 자율적으로 측정하고 이를 다른 사람들과 비교해 볼 수 있는 사이트입니다.
-  같은 회사 사람들과 채팅이 가능합니다.
-- 사용 기술 스택
-  - SpringBoot 3.0.5
-  - MySQL 8.0.26
-  - Redis
-  - HTML, CSS, Javascript
-  - Google Cloud Platform
+ 
+  
 
 <!--
 **kimurzzoo/kimurzzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
